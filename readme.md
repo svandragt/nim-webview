@@ -1,3 +1,5 @@
+> **Archived.** This project is replaced by [hello-browser](https://github.com/svandragt/hello-browser).
+
 Compile and run:
 ```
 nim c -r main.nim
